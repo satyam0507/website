@@ -26,7 +26,7 @@ const links = [
 
 <style>
 body {
-  background: #1F2937;
-  color: #F9FAFB;
+  background: #fefefe;
+  color: #1F2937;
 }
 </style>
