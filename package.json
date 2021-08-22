@@ -6,6 +6,11 @@
     "build": "vite build"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.4.0",
+    "@heroicons/vue": "^1.0.4",
+    "@tailwindcss/aspect-ratio": "^0.2.1",
+    "@tailwindcss/forms": "^0.3.3",
+    "@tailwindcss/typography": "^0.4.1",
     "vue": "^3.0.5"
   },
   "devDependencies": {
@@ -13,7 +18,7 @@
     "@vitejs/plugin-vue": "^1.0.4",
     "@vue/compiler-sfc": "^3.0.5",
     "autoprefixer": "^10.2.4",
-    "tailwindcss": "^2.0.3",
+    "tailwindcss": "^2.2.7",
     "vite": "^2.1.2"
   }
 }

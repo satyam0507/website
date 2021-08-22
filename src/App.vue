@@ -1,32 +1,23 @@
 <template>
-  <div class="text-center container max-w-lg mx-auto py-12">
-    <h1 class="text-3xl mb-6 font-extrabold">{{headline}}</h1>
-    <p class="text-xl mb-8 mx-8">{{subtitle}}</p>
-    <Links :links="links" />
+  <Header />
+  <div class="max-w-3xl mx-auto">
+    <Social />
+    <Links />
   </div>
+
+  <Footer />
 </template>
 
 <script setup>
-import Links from './components/Links.vue'
-
-const headline = "Kristian Freeman"
-const subtitle = "Developer advocate and software engineer"
-
-const links = [
-  {
-    name: "Twitter",
-    url: "https://twitter.com/signalnerve"
-  },
-  {
-    name: "GitHub",
-    url: "https://github.com/signalnerve"
-  },
-]
+import Header from "./components/Header.vue";
+import Links from "./components/Links.vue";
+import Social from "./components/Social.vue";
+import Footer from "./components/Footer.vue";
 </script>
 
 <style>
 body {
   background: #fefefe;
-  color: #1F2937;
+  color: #1f2937;
 }
 </style>
