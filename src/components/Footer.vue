@@ -40,7 +40,7 @@
       </div>
       <div class="mt-8 md:mt-0 md:order-1">
         <p class="text-center text-base text-gray-400">
-          This project is
+          This project is forked from
           <a
             class="
               underline
@@ -51,19 +51,7 @@
               ease-in-out
             "
             href="https://github.com/signalnerve/signalnerve.com"
-            >open-source</a
-          >, and deployed using
-          <a
-            class="
-              underline
-              hover:text-gray-600
-              focus:text-gray-600
-              transition-all
-              duration-150
-              ease-in-out
-            "
-            href="https://pages.cloudflare.com"
-            >Cloudflare Pages</a
+            >Kristian's</a
           >.
         </p>
       </div>

@@ -1,6 +1,9 @@
 # signalnerve.com
 
-Source for [signalnerve.com](https://signalnerve.com). Built with [Vite](https://vitejs.dev/) and deployed using [Cloudflare Pages](https://pages.cloudflare.com). [Tailwind UI](https://tailwindui.com)/[Tailwind](https://tailwindcss.com)-driven layout!
+Source for [satyamsingh.me](https://satyamsingh.me). Built with [Vite](https://vitejs.dev/).
+ <!-- and deployed using [Cloudflare Pages](https://pages.cloudflare.com). -->
+ [Tailwind UI](https://tailwindui.com)/[Tailwind](https://tailwindcss.com)-driven layout!.
+ forked from [signalnerve.com](https://github.com/signalnerve/signalnerve.com)
 
 ## Development
 
@@ -12,12 +15,12 @@ To test the application locally, run `npm run dev`.
 
 ## Deployment
 
-Deployment is done via [Cloudflare Pages](https://pages.cloudflare.com). When configuring the application for deployment, use the following settings.
+<!-- Deployment is done via [Cloudflare Pages](https://pages.cloudflare.com). When configuring the application for deployment, use the following settings.
 
 | Configuration   | Value           |
 | --------------- | --------------- |
 | Build command   | `npm run build` |
-| Build directory | `dist`          |
+| Build directory | `dist`          | -->
 
 ## License
 
