@@ -1,6 +1,6 @@
 # signalnerve.com
 
-Source for [satyamsingh.me](https://satyamsingh.me). Built with [Vite](https://vitejs.dev/).
+Source for [satyamsingh.me](https://www.satyamsingh.me). Built with [Vite](https://vitejs.dev/).
  and deployed using [Cloudflare](https://pages.cloudflare.com) and [Heroku](https://www.heroku.com/).
  [Tailwind UI](https://tailwindui.com)/[Tailwind](https://tailwindcss.com)-driven layout!.
  forked from [signalnerve.com](https://github.com/signalnerve/signalnerve.com)
