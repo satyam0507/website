@@ -10,4 +10,4 @@ app.listen(app.get('port'), function () {
 
 app.use(express.static('dist/'));
 
-app.use('/.well-known/',express.static('.well-known/'));
+// app.use('/.well-known/',express.static('.well-known/'));
